@@ -17,4 +17,4 @@ Powered by creators everywhere.
 -----------------------------------
 
 Branching and merge
-
+This online HTML editor is provided
