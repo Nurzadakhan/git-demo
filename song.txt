@@ -15,3 +15,6 @@ That paints me brown.
 The internet’s source for visuals.
 Powered by creators everywhere.
 -----------------------------------
+
+Branching and merge
+
